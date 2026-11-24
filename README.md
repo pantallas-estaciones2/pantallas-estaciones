@@ -6,7 +6,7 @@ Un configurador no oficial para el sistema de información a viajeros (SIV) de l
 
 ## 🚀 Demo
 
-**Link al proyecto**: [https://pantallas-estaciones.vercel.app/](https://pantallas-estaciones.vercel.app/)
+**Link-mirror al proyecto**: [https://pantallas-estaciones2.vercel.app/](https://pantallas-estaciones.vercel.app/)
 
 ## 🛠️ Tecnologías
 
