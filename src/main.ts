@@ -5,7 +5,7 @@ import App from './App.vue'
 import router from './router'
 
 if (import.meta.env.PROD && typeof window !== 'undefined') {
-  const legitimateDomain = 'pantallas-estaciones-plum.vercel.app'
+  const legitimateDomain = 'pantallas-estaciones2.vercel.app'
   const currentDomain = window.location.hostname
 
   if (currentDomain !== legitimateDomain) {
