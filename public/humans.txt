@@ -9,7 +9,7 @@ Name: Pantallas Estaciones
 Description: Unofficial ADIF station display configurator
 License: Open Source
 Repository: https://github.com/mariomnts/pantallas-estaciones
-Live Site: https://pantallas-estaciones.vercel.app/
+Live Site: https://pantallas-estaciones2.vercel.app/
 
 /* LEGAL */
 This project is unofficial and not affiliated with ADIF.
